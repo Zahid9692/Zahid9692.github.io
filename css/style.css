@@ -1,0 +1,83 @@
+
+/* Font Family */
+
+body{
+  font-family: 'Lora', serif;
+}
+
+.banner-container{
+  background-color: #657786;
+  background-color: #006aff;
+  background-color: #aab8c2;
+  
+}
+
+.banner-column{
+background-color: #7F909F;
+background-color: #657786;
+}
+
+.navbar-container{
+  background-color: #006aff;
+}
+
+.education-container{
+  background-color: #7F909F;
+
+}
+
+.circle-edu{
+ background-color: #657786;
+ width: 150px;
+ height: 150px;
+ border-radius: 50%;
+ text-align: center;
+}
+
+.portfolio{
+background-color: white;
+}
+
+.col-md-3{
+  text-align: left;
+}
+
+.container-z{
+  background-color: #7F909F;
+}
+
+.contact-form{
+background-color: #7F909F;
+}
+
+.row-2{
+  background-color: #7F909F;
+}
+
+.button{
+  background-color: #258ce0;
+}
+
+.btn{
+  background-color: #006aff;
+}
+
+.col-footer{
+  background-color: #2c4a74;
+}
+
+
+.circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  font-size: 40px;
+  text-align: center;
+  color: #2c4a74;
+}
+
+.circle:hover{
+  background-color: #006aff;
+}
